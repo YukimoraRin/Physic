@@ -1,0 +1,20 @@
+| Verb            | Übersetzung        |
+| --------------- | ------------------ |
+| berechnen       | вычислять          |
+| bestimmen       | определять         |
+| umrechnen       | переводить         |
+| erklären        | объяснять          |
+| zeigen          | показывать         |
+| vergleichen     | сравнивать         |
+| anwenden        | применять          |
+| experimentieren | экспериментировать |
+| analysieren     | анализировать      |
+| überprüfen      | проверять          |
+| messen          | измерять           |
+| erforschen      | исследовать        |
+| modellieren     | моделировать       |
+| verifizieren    | проверять          |
+| interpretieren  | интерпретировать   |
+| verallgemeinern | обобщать           |
+| annehmen        | предполагать       |
+

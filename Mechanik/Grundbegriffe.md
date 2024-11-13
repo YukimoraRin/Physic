@@ -11,6 +11,9 @@
 	- [Formel der Beschleunigung:](#Formel%20der%20Beschleunigung)
 	- [Einheiten:](#Einheiten)
 	- [Beispielaufgaben:](#Beispielaufgaben)
+- [Formeln für die durch­schnitt­liche Ge­schwin­dig­keit](#Formeln%20für%20die%20durch­schnitt­liche%20Ge­schwin­dig­keit)
+- [Formeln für die durch­schnitt­liche Be­schleu­nigung](#Formeln%20für%20die%20durch­schnitt­liche%20Be­schleu­nigung)
+- [Formeln bei gleichmäßiger Beschleunigung](#Formeln%20bei%20gleichmäßiger%20Beschleunigung)
 
 ## 1. Bewegung
 
@@ -117,3 +120,74 @@ wobei:
      $$
      a = \frac{10 - 30}{5} = -4 \text{ m/s²}
      $$ (negative Beschleunigung bedeutet eine Verzögerung).
+
+
+---
+
+## Formeln für die durch­schnitt­liche Ge­schwin­dig­keit
+
+---
+$$
+     v = \frac{S}{t} \quad\quad\quad\quad s = v \cdot t \quad\quad\quad\quad t = \frac{S}{v}
+$$
+---
+$$
+v \text{ [m/s]} = \frac {v\text { [km/h]}} {3,6}
+
+\quad\quad\quad\quad
+
+v \text{ [km/h]} = {v\text { [m/s]}} \cdot {3,6}
+$$
+---
+
+## Formeln für die durch­schnitt­liche Be­schleu­nigung
+
+---
+$$
+a = \frac {\delta v} {\delta t} = \frac {v_1 - v_2} {\delta t} = \frac {v_1 - v_0} {t_1 - t_0}
+$$
+---
+
+## Formeln bei gleichmäßiger Beschleunigung
+
+- ### Anfangs­geschwindig­keit = 0
+
+---
+$$
+s = \frac {v^2} {2 \cdot a} 
+\quad\quad\quad\quad
+s = \frac {v \cdot t} {2}
+\quad\quad\quad\quad
+s = \frac {a \cdot t^2} {2}
+$$
+---
+$$
+a = \frac {v^2} {2 \cdot s}
+\quad\quad\quad\quad
+a = \frac {v} {t}
+\quad\quad\quad\quad
+a = \frac {2 \cdot s} {t^2}
+$$
+---
+$$
+v = \sqrt {2 \cdot a \cdot c}
+\quad\quad\quad\quad
+v = a \cdot t
+\quad\quad\quad\quad
+v = \frac {2 \cdot s} {t}
+$$
+---
+$$
+t = \sqrt {\frac {2 \cdot s} {a}}
+\quad\quad\quad\quad
+t = \frac {v} {a}
+\quad\quad\quad\quad
+t = \frac {2 \cdot s} {v}
+$$
+---
+
+- ### An­fangs­geschwin­dig­keit ≠ 0
+
+---
+![](Mechanik/img/formel.png)
+---

@@ -62,3 +62,56 @@ F_{\text{kinetisch}} = \mu_{\text{k}} \cdot F_{\text{N}}
 - Beide Arten der Reibung sind abhängig von der Normalkraft und den Eigenschaften der Kontaktflächen (Reibungskoeffizient).
 
 Diese Konzepte sind essenziell für das Verständnis von Bewegung und Bremsvorgängen in der Physik und spielen in vielen realen Anwendungen eine wichtige Rolle.
+
+---
+
+# Normalkraft bei Statischer und Kinetischer Reibung
+
+Die Normalkraft spielt eine zentrale Rolle bei der Reibung, da sie direkt die Stärke der Reibungskraft beeinflusst. Sowohl die statische Reibung (die Reibungskraft, die verhindert, dass ein Körper in Bewegung gerät) als auch die kinetische Reibung (die Reibungskraft, die einen bereits bewegten Körper abbremst) hängen linear von der Normalkraft ab.
+
+## 1. Formel für die Reibungskraft
+
+Die Reibungskraft  ist proportional zur Normalkraft :
+
+F_{\text{Reibung}} = \mu \cdot F_{\text{N}}
+
+Dabei ist:
+
+: Reibungskraft (kann entweder statisch oder kinetisch sein)
+
+: Reibungskoeffizient, der vom Material der Kontaktflächen abhängt
+
+: Normalkraft, die auf die Oberfläche wirkt
+
+
+## 2. Zusammenhang zwischen Normalkraft und Gewichtskraft
+
+Für einen Körper, der sich auf einer horizontalen Fläche befindet, ist die Normalkraft gleich der Gewichtskraft des Körpers:
+
+F_{\text{N}} = m \cdot g
+
+: Erdbeschleunigung (ca. 9.81 m/s^2)
+
+
+Beispiel: Ein 5-kg-Körper auf einer horizontalen Fläche hat eine Gewichtskraft . Da die Fläche horizontal ist, ist die Normalkraft .
+
+## 3. Normalkraft auf geneigten Flächen
+
+Wenn sich der Körper auf einer schiefen Ebene befindet, wirkt die Normalkraft nicht gleich der Gewichtskraft, sondern ist geringer, da nur die senkrechte Komponente der Gewichtskraft auf die Fläche wirkt.
+
+F_{\text{N}} = m \cdot g \cdot \cos(\alpha)
+
+Beispiel: Ein 5-kg-Körper auf einer Fläche, die um 30° geneigt ist, hat eine Normalkraft von .
+
+
+---
+
+## Zusammenfassung
+
+Normalkraft: Die Kraft, die senkrecht zur Kontaktfläche wirkt und das Gewicht des Körpers ausgleicht.
+
+Reibungskraft: Abhängig von der Normalkraft und dem Reibungskoeffizienten, bestimmt sie den Widerstand, der einer Bewegung entgegenwirkt.
+
+Auf horizontalen Flächen ist .
+
+Auf geneigten Flächen reduziert sich die Normalkraft je nach Neigungswinkel
